@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsHubsIds/LimitHub/refs/heads/main/LimitHub_Loader.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bypass890/DARKSCRIPT-PETSPAWNER-DUPE/refs/heads/main/loader"))()
+loadstring(game:HttpGet("https://pastefy.app/nG3coZ85/raw"))()
